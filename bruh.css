@@ -1,0 +1,61 @@
+@font-face{
+	font-family: weatherStar3000;
+	src: url(fonts/star3000.ttf);
+}
+
+a{
+	margin: 10px;
+	font-family: arial;
+	color: #D6D6D6;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover{
+	background-color: #0074d9;
+	color: #FFFFFF;
+}
+
+body{
+	background-color: #000080;
+}
+
+h1{
+	color: #D6D6D6;
+	font-family: weatherStar3000;
+}
+
+h3{
+	color: #D6D6D6;
+	font-family: weatherStar3000;
+}
+
+p{
+	color: #D6D6D6;
+	font-family: weatherStar3000;
+}
+
+#bruhID{
+	float: left;
+	width: 80%;
+	border-style: inset;
+}
+
+#bruhID2{
+	float: left;
+}
+
+#bruhID3{
+	padding-left: 10px;
+}
+
+#howDoYouDoThis{
+	text-align: left;
+	padding-left: 10px;
+}
+
+#news{
+	border-style: inset;
+	float: right;
+	width: 18%;
+}

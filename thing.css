@@ -1,0 +1,23 @@
+@font-face{
+	font-family: weatherStar3000;
+	src: url(fonts/star3000.ttf);
+}
+
+a{
+	padding: 10px;
+	font-family: weatherStar3000;
+}
+
+body{
+	background-color: #000080;
+}
+
+h1{
+	color: #D6D6D6;
+	font-family: weatherStar3000;
+}
+
+small{
+	color: #D6D6D6;
+	font-family: weatherStar3000;
+}
